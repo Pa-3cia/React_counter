@@ -13,9 +13,10 @@
 body {
   margin: 0;
   background-image: linear-gradient(180deg, #000000D4 0%, #00000070 100%);
-  background-image: url(https://ocicat.network/wp-content/uploads/2023/01/bg.jpg);
+  background-image: url("./assets/counter-bg.jpeg");
   background-position: center center;
   background-size: cover;  
+  
 }
 
 

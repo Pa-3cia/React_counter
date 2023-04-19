@@ -1,8 +1,14 @@
 import { createWebHistory, createRouter } from "vue-router";
 import Counter from "../views/counter-view.vue";
 import NotFound from "../views/not-found-view.vue";
+import Home from "../views/home-view.vue";
 
 const routes = [
+  {
+    path: "/",
+    name: "Homer",
+    component: Home,
+  },
   {
     path: "/counter",
     name: "Counter",

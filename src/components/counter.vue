@@ -80,4 +80,11 @@ button:disabled {
 .reset-button {
   background: rgb(185, 58, 58);
 }
+
+@media only screen and (max-width: 767px) {
+  button {
+    padding: 1rem;
+    width: 14rem;
+  }
+}
 </style>

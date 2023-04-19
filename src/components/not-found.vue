@@ -9,7 +9,7 @@
 <style scoped>
 .not-found {
   color: #fff;
-  margin: 20rem auto;
+  margin: 15rem auto;
   text-align: center;
   width: 50%;
 }
